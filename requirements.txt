@@ -1,1 +1,8 @@
 streamlit
+transformers
+flame
+pytorch
+tensorflow
+streamlit_option_menu
+pandas
+
