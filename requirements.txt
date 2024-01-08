@@ -1,7 +1,6 @@
 streamlit
 transformers
 flame
-pip3 install torch torchvision torchaudio
 tensorflow
 streamlit_option_menu
 pandas
