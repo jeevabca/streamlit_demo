@@ -1,9 +1,7 @@
 import streamlit as st
-import admin as ad
 import pandas as pd
 import ATE_for_csv as pfc
 import ate_sc as sc
-import ATE as at
 from streamlit_option_menu import option_menu
 
 st.title("Aspect Based Sentiment Analysis")
